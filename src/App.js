@@ -17,7 +17,7 @@ function App(props) {
     if(index>0){
       setIndex(index-5)
     }
-    if(index<6){
+    if(index<4){
       setIndex(15);
     }
     
