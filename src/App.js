@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./App.css";
 import Card from "./components/cards/Card"
 import data from "./data"
-import Buton from "./components/butons/Buton"
 
 
 

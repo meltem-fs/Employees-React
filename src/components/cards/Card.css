@@ -1,5 +1,5 @@
 .card_style{
-    background-color: rgb(255, 245, 222);
+    background-color: rgb(227, 254, 236);
     margin-top: 2rem;
     width: 30rem;
     padding: 1.5rem;
@@ -13,9 +13,6 @@
    
 }
 
-body{
-    background-color:chocolate ;
-}
 
 span{
     display: inline-block;
