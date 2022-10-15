@@ -1,4 +1,6 @@
 [click](https://meltem-fs.github.io/Employees-React/)
+![Animation-employee](https://user-images.githubusercontent.com/101893145/195977556-54babfaa-59b6-423b-aeb2-079f96515591.gif)
+
 
 # Getting Started with Create React App
 
