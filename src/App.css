@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.App{
+   background-color: rgb(213, 253, 225);
+   width: 35rem;
+   margin: 2rem auto;
+   padding: 1rem;
+   border-radius: 20px;
+   box-shadow: 2px 2px 15px 2px rgb(8, 79, 8);
+}
+
+.prev{
+  background-color: #77fa84!important;
+}
+.next{
+  background-color: #ea9312!important;
+  margin-left: 1rem;
+}

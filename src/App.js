@@ -46,10 +46,10 @@ function App(props) {
         })}
       </div>
       <span>
-        <button onClick={prev} className="btn btn-light">
+        <button onClick={prev} className="btn prev">
           PREV
         </button>
-        <button onClick={next} className="btn btn-success">
+        <button onClick={next} className="btn next">
           NEXT
         </button>
       </span>
